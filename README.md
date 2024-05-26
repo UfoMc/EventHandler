@@ -26,7 +26,8 @@ public class TestEvent extends EventManager {
  4. trigger that event when ever you want
 
 ```java
-EventRegistry.triggerEvent(new TEvent());```
+EventRegistry.triggerEvent(new TEvent());
+```
 
 What is NexChat?
 -
