@@ -29,13 +29,6 @@ public class TestEvent extends EventManager {
 EventRegistry.triggerEvent(new TEvent());
 ```
 
-What is NexChat?
--
-
-NexChat the chat system I found with `https://github.com/Ananmay125`.
-We are still searching for disigners developers and supporters.
-Please dm me (ufo.dev) on discord for more information
-
 CopyRight
 -
 
